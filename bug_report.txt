@@ -1,1 +1,7 @@
-
+1) Id - B1
+2) Summary - 404 error is displayed
+3) Preconditions - -
+4) Steps to reproduce - 1. Go to http://www.example.com, 2. Click on Login button
+5) Actual Result - 404 error is displayed
+6) Expected Result - Authorization page is opened
+7) Attachments - http://prntscr.com/ic93kw
