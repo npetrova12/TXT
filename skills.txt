@@ -1,0 +1,7 @@
+1) Skill 1 - SDLC, STLC
+2) Skill 2 - API
+3) Skill 3 - VPN
+4) Skill 4 - SQL
+5) Skill 5 - Linux Terminal
+6) Skill 6 - JS
+7) Skill 7 - Phyton
